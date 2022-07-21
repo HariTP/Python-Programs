@@ -1,0 +1,7 @@
+This is text file
+Some extra work is done
+this is program 12 of list
+python is a language
+dec 25 is xmas day
+second last line of file
+end of text file
